@@ -30,4 +30,3 @@ server_scripts {
     'server/server.lua',
     'config.lua'
 }
-NTI3MDQ0MTEwOTQzNzgwODc1.GNi2Pg.h-_lZwywyGXrvfHDVXNpLJC4sER-xs3OQKgbLk
